@@ -3,8 +3,10 @@ Welcome to my Amazon Clone – a front-end replica of the iconic Amazon e-commer
 
 🔧 Technologies Used:
 HTML5 – for the structure and layout
+
 CSS3 (Advanced) – for styling, layout responsiveness, hover effects, and overall design
 
 💡 What I Learned:
 Building complex layouts using Flexbox and Grid
+
 Understanding the importance of visual hierarchy and user interface design
